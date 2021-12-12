@@ -1,3 +1,2 @@
 # MELEPORT_DemoGame1
-Hello World \n
-Here is Demo Game 1
+Hello World. Here is Demo Game 1
