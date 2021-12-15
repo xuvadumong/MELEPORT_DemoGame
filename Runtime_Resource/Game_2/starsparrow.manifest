@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1621396259
+CRC: 3793318079
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 0c536a0b9db2f8aae1d69d3c87f60160
+    Hash: bac4db5f839ea027c57a80103cbd1d0d
   TypeTreeHash:
     serializedVersion: 2
     Hash: 007ed20c4d4df9cbb253f482bfdf2947
@@ -37,5 +37,5 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Prefabs/Default_StarSparrow.prefab
+- Assets/Default_StarSparrow.prefab
 Dependencies: []
