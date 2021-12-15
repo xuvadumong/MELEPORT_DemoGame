@@ -1,7 +1,10 @@
 ManifestFileVersion: 0
-CRC: 1123231427
+CRC: 2225769521
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
       Name: starsparrow
+      Dependencies: {}
+    Info_1:
+      Name: pro_starsparrow
       Dependencies: {}
