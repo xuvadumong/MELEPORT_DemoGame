@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 2637018841
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2d2b51bcec62f2312f655fb9c6564c62
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3c41a3ae55ab305a783d92c36f7604c8
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: b6b24c4dba0c942bab98495cd3afa850, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0efcda721379646c88bafb8aca614114, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Prefabs/Default_StarSparrow.prefab
+Dependencies: []

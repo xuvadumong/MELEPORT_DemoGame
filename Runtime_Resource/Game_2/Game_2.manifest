@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 3048503668
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: starsparrow
+      Dependencies: {}
