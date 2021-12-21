@@ -1,1 +1,1 @@
-https://xuvadumong.github.io/MELEPORT_DemoGame/Runtime_Resource/Game_2/starsparrow
+https://xuvadumong.github.io/MELEPORT_DemoGame/Runtime_Resource/Game_1/weapon

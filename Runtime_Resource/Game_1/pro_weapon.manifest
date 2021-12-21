@@ -1,0 +1,81 @@
+ManifestFileVersion: 0
+CRC: 3968823115
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fe48169d6dac0439e0350af83336306e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 340a1f11311ddb6d4543792d2baa880f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: da2b0de22b1558e4caa11aa3696e87fc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29a2833c2faa8a3439fd04522cf5733c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cc94179cece5b4e41ae9298ddbf83fdf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4bffb1311779ed346a19fef7c9fa65ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3614fdf64d310f44ba678e99290fa20a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3ad90ba0b1477764da373f5ec01a8cb5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0244d6b9e98532469c7be0732490a61, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de99b30e1e73fd14e98cc5371da25d12, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b92ab16a4151e294a9e6f5a025221be2, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: fps.Game
+  ClassName: Unity.FPS.Game.CrosshairData
+- AssemblyName: fps.Game
+  ClassName: Unity.FPS.Game.MinMaxColor
+- AssemblyName: fps.Game
+  ClassName: Unity.FPS.Game.MinMaxFloat
+- AssemblyName: fps.Game
+  ClassName: Unity.FPS.Game.MinMaxVector3
+Assets:
+- Assets/Pickup_Launcher.prefab
+Dependencies: []

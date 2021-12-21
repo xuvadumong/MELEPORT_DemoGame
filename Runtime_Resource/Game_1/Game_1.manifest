@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1881142080
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: weapon
+      Dependencies: {}
+    Info_1:
+      Name: pro_weapon
+      Dependencies: {}
