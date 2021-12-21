@@ -1,1 +1,1 @@
-https://github.com/xuvadumong/MELEPORT_DemoGame/blob/main/Runtime_Resource/Game_1/weapon.gif?raw=true
+https://github.com/xuvadumong/MELEPORT_DemoGame/blob/main/Runtime_Resource/Game_1/pro_weapon.gif?raw=true
