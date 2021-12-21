@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 4294148755
+CRC: 2004525456
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: aafc886f8106fa70b44b5c3c406f16d3
+    Hash: c18e90493dd88cd16333336da2a466a7
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 340a1f11311ddb6d4543792d2baa880f
+    Hash: d376a82a49589900bd93f0c6a11d0ef2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -60,12 +60,6 @@ ClassTypes:
 - Class: 199
   Script: {instanceID: 0}
 - Class: 213
-  Script: {instanceID: 0}
-- Class: 241
-  Script: {instanceID: 0}
-- Class: 243
-  Script: {instanceID: 0}
-- Class: 245
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: fps.Game
